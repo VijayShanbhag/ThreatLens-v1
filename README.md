@@ -35,19 +35,7 @@ While building ThreatLens I also learned how authentication logs are structured,
 
 ## How it works
 
-Authentication Log
-        │
-        ▼
-Detection Rules
-        │
-        ▼
-Alerts
-        │
-        ▼
-Threat Score
-        │
-        ▼
-Report
+Authentication Log-->Detection Rules-->Alerts-->Threat Score-->Report
 
 
 ## Current Limitations
